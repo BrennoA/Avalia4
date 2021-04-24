@@ -15,8 +15,6 @@
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
-<a href="login.html">Tela De Login</a>
-
 <!--Menu1-->
 
 <body>
@@ -29,8 +27,6 @@
       MasterTec
     </a>
     <ul class="nav justify-content-end">
-    <button type="button" class="btn btn-outline-secondary">Login</button>
-    <button type="button" class="btn btn-primary">Cadastro</button>
     </ul>
   </div>
 </nav>
@@ -286,13 +282,6 @@
                 </div>
             </div>
           </div><!-- fim coluna -->
-
-          </div> <!--fim da div de borda-->
-
-        <div>
-        <a href="QS.html"><h2 align="right">Quem somos</h2></a>
-        <a href="Contato.html"><h2 align="right">Contato</h2></a>
-        </div>
         
     
     </div>

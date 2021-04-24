@@ -31,55 +31,6 @@
   </div>
 </nav>
 
-<!--Carrossel-->
-
-
-        <div>
-
-        <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img style="height: 500px; width: 100px;"src="https://s.zst.com.br/cms-assets/2020/11/perif-ricos.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Os Melhores Periféricos</h5>
-      
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img style="height: 500px; width: 700px;"src="https://i2.wp.com/techinter.com.br/wp-content/uploads/2013/02/PC-Gamer-vs-console.jpg?resize=800%2C500&ssl=1" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>As Melhores Plataformas</h5>
-       
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img style="height: 500px; width: 700px;" src="https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dmlkZW8lMjBnYW1lfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Com Os Melhores Preços</h5>
-        <p>Para Sua Diversão</p>
-
-      </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-
-</div>
-
-
-
   <!--Menu-->
     <div class="row">
       <div class="row">
@@ -143,12 +94,6 @@
           </div>
         </nav>
       </div>
-
-      <hr>
-
-      <div id="borda">
-
-      
 
     <div>
      <br><br>
